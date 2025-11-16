@@ -41,9 +41,11 @@ Identify the **highest‑value customer segment** and understand:
 
 **Who:**  
 Mostly **50–60‑year‑old males**, frequent visitors with strong brand affinity.
+![alt text](image-3.png)
 
 **What they value:**  
 Prefer **tasty, convenient, affordable, and relatively healthy food**, especially **non‑spicy options**.
+![alt text](image-2.png)
 
 ---
 
